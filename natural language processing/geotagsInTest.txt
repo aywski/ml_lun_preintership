@@ -1,0 +1,9 @@
+ID: geo_region, Количество повторений: 2780
+ID: geo_city, Количество повторений: 2694
+ID: geo_district, Количество повторений: 903
+ID: central_city, Количество повторений: 466
+ID: geo_street, Количество повторений: 1269
+ID: geo_address, Количество повторений: 775
+ID: geo_building, Количество повторений: 524
+ID: geo_region_oblast, Количество повторений: 559
+ID: geo_microdistrict, Количество повторений: 644
